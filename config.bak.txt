@@ -1,1 +1,1 @@
-open("~/.zshrc",'a').write("export PATH=/Users/xue.yu/Library:$PATH")
+open("/Users/xue.yu/.zshrc",'a').write("export PATH=/Users/xue.yu/Library:$PATH")
